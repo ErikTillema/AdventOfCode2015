@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Puzzle {
+class Puzzle { 
 	
 	public static void main(String[] args) throws Exception {
 		String input;
